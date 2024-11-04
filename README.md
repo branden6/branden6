@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Branden
 - 👀 I’m interested in learning coding, investing, real estate investment, self growth and motivation
-- 🌱 I’m currently learning Java, HTML, and Python
+- 🌱 I’m currently learning Java, HTML, and Python, Unity, and C#
 - 📫 reach me through my LinkedIn: www.linkedin.com/in/branden-kennedy-2600921a2
 
 
