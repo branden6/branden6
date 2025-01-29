@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Branden
+- 👋 Hi, I’m Branden, a second year Computer Science student at the University of British Columbia
 - 👀 I’m interested in learning coding, investing, real estate investment, self growth and motivation
 - 🌱 I’m currently learning Java, HTML, Python, Unity, and C#
 - 📫 reach me through my LinkedIn: www.linkedin.com/in/branden-kennedy-2600921a2
